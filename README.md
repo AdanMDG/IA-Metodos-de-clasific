@@ -1,4 +1,4 @@
-# IA-REDES NEURONALES Y DEEP LEARNING 
+#  IA - Redes Neuronales y Deep Learning
 Desarrollo de una red neuronal para reconocimiento de imagenes. Para ello, vamos a trabajar con un dataset provisto por keras: CIFAR10. Este consta de 60000 imágenes en color de 32x32 en 10 clases, con 6000 imágenes por clase. Hay 50000 imágenes de entrenamiento y 10000 imágenes de prueba.
 
 ## CONCLUSIÓN
